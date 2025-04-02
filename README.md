@@ -9,7 +9,7 @@ An HTML5 Tetris Game
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
-FUTURE
+FUTURE IS NATURE!!! IN 2025 BROTHER!
 ======
 
  * menu
